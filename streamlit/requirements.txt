@@ -1,0 +1,7 @@
+altair
+pandas
+streamlit
+pymongo
+plotly-express
+streamlit-autorefresh
+ipywidgets>=7.0.0
