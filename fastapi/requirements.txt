@@ -18,7 +18,7 @@ h11==0.14.0
 httptools==0.6.1
 idna==3.4
 importlib-metadata==6.8.0
-Jinja2==3.1.2
+Jinja2==3.1.4
 jsonschema==4.19.2
 jsonschema-specifications==2023.7.1
 lxml==4.9.3
