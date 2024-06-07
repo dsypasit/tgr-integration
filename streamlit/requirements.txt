@@ -5,3 +5,4 @@ pymongo
 plotly-express
 streamlit-autorefresh
 ipywidgets>=7.0.0
+tornado>=6.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
